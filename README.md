@@ -2,8 +2,7 @@
 Trilha de aprendizado HTML, CSS, GITHUB
 Aula 1 Criar Github, enviar pull request
 
-# atualizar repositório usando Git Bash
-# comandos
+# Atualizar repositório usando Git Bash comandos
 git status
 git add .
 git commit -m
